@@ -1,2 +1,1 @@
-# AsierRodriguezO.github.io
-#pagina web
+# pagina web de Asier Rodriguez
