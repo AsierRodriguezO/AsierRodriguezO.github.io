@@ -26,7 +26,7 @@
    git commit -m "Añadido fichero ARO.md"
    git push
    ```
-    ![imagen](/Ejercicio3/imagenes/imagen%20(20).png)
+    ![imagen](/Ejercicio4/imagenes/imagen%20(20).png)
 
 3. Hacemos un pull request al repositorio original.
 
